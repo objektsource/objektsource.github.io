@@ -2,7 +2,12 @@ body {
   font-family: Roboto, sans-serif;
   margin-left: 6vw;
   margin-right: 14vw;
-  background-color: #f8f8f8;
+}
+canvas {
+  position: absolute;
+	top: 0;
+	left: 0;
+  z-index: -3 !important;
 }
 #layout{
   margin-top: 10%;
