@@ -79,3 +79,7 @@ body {
   margin-top: 1vw;
   float: left;
 }
+#emailForm p {
+  /* font-size: 1.6em; */
+  background-color: #efefef;
+}
